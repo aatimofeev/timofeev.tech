@@ -5,7 +5,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 const config: GatsbyConfig = {
     siteMetadata: {
-        pathPrefix: "/timofeev.tech",
+        pathPrefix: `/timofeev.tech`,
         // You can overwrite values here that are used for the SEO component
         // You can also add new values here to query them like usual
         // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.mjs
